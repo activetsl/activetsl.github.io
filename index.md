@@ -33,7 +33,7 @@ Professional, Amanah, Aesthetics, and Integrity.
 
 ### Portofolio Based On Team
 
-[Portofolio 1](https://drive.google.com/file/d/1kUzGXezBWWmOQLCYgjcbhsdwfONM3IKF/preview)
+[Portofolio 1](https://drive.google.com/uc?export=view&id=0B6wwyazyzml-OGQ3VUo0Z2thdmc)
 
 
 
