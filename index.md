@@ -3,15 +3,22 @@
 Kami merupakan studio software house yang terdiri dari tim terbaik Tarbiyah Sunah Learning (TSL) yang berlatar belakang lintas fungsi dan  spesialis di bidang teknologi informasi.
 
 ### Komitmen Kami
+```markdown
 **Dengan memohon pertolongan Allah Ta’ala :**
 
-- Bulleted Kami berkomitmen pada setiap proyek yang diamanahkan, kami akan berikan yang terbaik.
-- Bulleted Sebagian keuntungan dari setiap proyek akan kami salurkan untuk pengembangan dakwah terkhusus 
+- Kami berkomitmen pada setiap proyek yang diamanahkan, kami akan berikan yang terbaik.
+- Sebagian keuntungan dari setiap proyek akan kami salurkan untuk pengembangan dakwah terkhusus 
 disini karena kami terdiri dari tim Tarbiyah Sunnah Learning maka kami khususkan untuk TSL.
+```
 
-### Komitmen
+### Visi, Misi dan Core Value Team
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Visi:**
+Memberikan layanan teknologi informasi unggul, dan mitra yang amanah.
+
+**Misi:**
+Menyediakan layanan pengembangan produk teknologi informasi yang berkualitas.
+
 
 ```markdown
 Syntax highlighted code block
