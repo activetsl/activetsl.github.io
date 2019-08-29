@@ -33,8 +33,7 @@ Professional, Amanah, Aesthetics, and Integrity.
 
 ### Portofolio Based On Team
 Untuk Portofolio dan Company Profile Active TSL silahkan klik tombol di bawah ini [Klik Disini] 
-(https://drive.google.com/file/d/11turFvErlwTZ2juxVvqzAiq46pEIg1rW/view?usp=sharing>
-
+(https://drive.google.com/file/d/11turFvErlwTZ2juxVvqzAiq46pEIg1rW/view?usp=sharing)
 
 
 ### Kontak Kami
