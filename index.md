@@ -19,6 +19,16 @@ Memberikan layanan teknologi informasi unggul, dan mitra yang amanah.
 **Misi:**
 Menyediakan layanan pengembangan produk teknologi informasi yang berkualitas.
 
+**Core Value Team**
+Professional, Amanah, Aesthetics, and Integrity.
+
+##Layanan Kami
+### Fixed Budget Project
+### Retainer Project
+### Web Development
+### Web Application
+### Web Maintenance
+### Mobile Application
 
 ```markdown
 Syntax highlighted code block
@@ -40,9 +50,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/activetsl/activetsl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Kontak Kami
 
