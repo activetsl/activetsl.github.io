@@ -22,13 +22,13 @@ Menyediakan layanan pengembangan produk teknologi informasi yang berkualitas.
 **Core Value Team**
 Professional, Amanah, Aesthetics, and Integrity.
 
-##Layanan Kami
-### Fixed Budget Project
-### Retainer Project
-### Web Development
-### Web Application
-### Web Maintenance
-### Mobile Application
+### Layanan Kami
+2. Fixed Budget Project
+3. Retainer Project
+4. Web Development
+5. Web Application
+6. Web Maintenance
+7. Mobile Application
 
 ```markdown
 Syntax highlighted code block
