@@ -1,5 +1,5 @@
-## Tentang Kami
-
+## Active TSL Team
+### Tentang Kami
 Kami merupakan studio software house yang terdiri dari tim terbaik Tarbiyah Sunah Learning (TSL) yang berlatar belakang lintas fungsi dan  spesialis di bidang teknologi informasi.
 
 ### Komitmen Kami
