@@ -30,6 +30,11 @@ Professional, Amanah, Aesthetics, and Integrity.
 6. Web Maintenance
 7. Mobile Application
 
+### Portofolio Based On Team
+
+[Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiisaf8xKfkAhUJfysKHdwrBywQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pcmag.com%2Froundup%2F295350%2Fthe-best-all-in-one-computers&psig=AOvVaw0kQ8eENrdlg5OWl2hk0aSv&ust=1567149483896606)
+
+
 ```markdown
 Syntax highlighted code block
 
