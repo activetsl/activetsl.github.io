@@ -23,6 +23,11 @@ Menyediakan layanan pengembangan produk teknologi informasi yang berkualitas.
 Professional, Amanah, Aesthetics, and Integrity.
 
 ### Layanan Kami
+Fixed Budget Project |  Web Application
+------------ | -------------
+Retainer Project | Web Maintenance
+Web Development | Mobile Application
+
 2. Fixed Budget Project
 3. Retainer Project
 4. Web Development
