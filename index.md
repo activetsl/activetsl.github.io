@@ -32,28 +32,7 @@ Professional, Amanah, Aesthetics, and Integrity.
 
 ### Portofolio Based On Team
 
-[Image](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiisaf8xKfkAhUJfysKHdwrBywQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pcmag.com%2Froundup%2F295350%2Fthe-best-all-in-one-computers&psig=AOvVaw0kQ8eENrdlg5OWl2hk0aSv&ust=1567149483896606)
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Portofolio 1](https://drive.google.com/file/d/1kUzGXezBWWmOQLCYgjcbhsdwfONM3IKF/view?usp=sharing)
 
 
 
