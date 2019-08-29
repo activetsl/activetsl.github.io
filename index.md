@@ -1,10 +1,15 @@
-## Selamat Datang / Ahlan Wa Sahlan
+## Tentang Kami
 
-You can use the [editor on GitHub](https://github.com/activetsl/activetsl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Kami merupakan studio software house yang terdiri dari tim terbaik Tarbiyah Sunah Learning (TSL) yang berlatar belakang lintas fungsi dan  spesialis di bidang teknologi informasi.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Komitmen Kami
+**Dengan memohon pertolongan Allah Ta’ala :**
 
-### Markdown
+- Bulleted Kami berkomitmen pada setiap proyek yang diamanahkan, kami akan berikan yang terbaik.
+- Bulleted Sebagian keuntungan dari setiap proyek akan kami salurkan untuk pengembangan dakwah terkhusus 
+disini karena kami terdiri dari tim Tarbiyah Sunnah Learning maka kami khususkan untuk TSL.
+
+### Komitmen
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
