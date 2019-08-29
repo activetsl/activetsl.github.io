@@ -28,12 +28,6 @@ Fixed Budget Project |  Web Application
 Retainer Project | Web Maintenance
 Web Development | Mobile Application
 
-2. Fixed Budget Project
-3. Retainer Project
-4. Web Development
-5. Web Application
-6. Web Maintenance
-7. Mobile Application
 
 ### Portofolio Based On Team
 
