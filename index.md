@@ -34,4 +34,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Kontak Kami
 
-Mari berdikusi, via [Email](salamactivetsl@gmail.com) atau [Whatsapp](wa.me/6285722003303) kami sangat terbuka untuk berdiskusi.
+Mari berdikusi, via salamactivetsl@gmail.com atau Whatsapp : +6285722-003-303 kami sangat terbuka untuk berdiskusi.
